@@ -1,6 +1,6 @@
 <?php
 
-namespace Gregwar\Captcha;
+namespace Ljnchn\Captcha;
 
 use \Exception;
 
@@ -8,7 +8,7 @@ use \Exception;
  * Builds a new captcha image
  * Uses the fingerprint parameter, if one is passed, to generate the same image
  *
- * @author Gregwar <g.passault@gmail.com>
+ * @author Ljnchn <g.passault@gmail.com>
  * @author Jeremy Livingston <jeremy.j.livingston@gmail.com>
  */
 class CaptchaBuilder implements CaptchaBuilderInterface

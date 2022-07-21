@@ -1,11 +1,11 @@
 <?php
 
-namespace Gregwar\Captcha;
+namespace Ljnchn\Captcha;
 
 /**
  * Generates random phrase
  *
- * @author Gregwar <g.passault@gmail.com>
+ * @author Ljnchn <g.passault@gmail.com>
  */
 class PhraseBuilder implements PhraseBuilderInterface
 {

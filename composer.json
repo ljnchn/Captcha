@@ -1,15 +1,15 @@
 {
-    "name": "gregwar/captcha",
+    "name": "ljnchn/captcha",
     "type": "library",
     "description": "Captcha generator",
     "keywords": ["captcha", "spam", "bot"],
-    "homepage": "https://github.com/Gregwar/Captcha",
+    "homepage": "https://github.com/Ljnchn/Captcha",
     "license": "MIT",
     "authors": [
         {
             "name": "Grégoire Passault",
             "email": "g.passault@gmail.com",
-            "homepage": "http://www.gregwar.com/"
+            "homepage": "http://www.ljnchn.com/"
         },
         {
             "name": "Jeremy Livingston",
@@ -24,7 +24,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Gregwar\\": "src/Gregwar"
+            "Ljnchn\\": "src/Ljnchn"
         }
     },
     "require-dev": {
